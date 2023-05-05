@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.exe
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.deps.json
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.runtimeconfig.json
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.dll
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\ref\prakt16_3.dll
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\bin\Debug\net5.0\prakt16_3.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.dll
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\ref\prakt16_3.dll
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\prakt16_3\prakt16_3\obj\Debug\net5.0\prakt16_3.genruntimeconfig.cache

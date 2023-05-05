@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prakt16_3/1.0.0": {
+        "runtime": {
+          "prakt16_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prakt16_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
